@@ -1,0 +1,4 @@
+The label of the vertex 4 is
+
+1 + 5 = 6 (1 -> 2 -> 4)
+Because 6 < 9 (1 -> 4)

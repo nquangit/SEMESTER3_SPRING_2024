@@ -1,0 +1,3 @@
+b a c d f e
+
+# Vì h g i không có liên kết nào đến b a c d f e nên không có trong breadth-first traversal từ đỉnh b
